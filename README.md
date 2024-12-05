@@ -59,7 +59,3 @@ Os **eventos recentes** exibidos incluem:
 ## Contribuições
 
 Sinta-se à vontade para contribuir com melhorias, correções ou novas funcionalidades! Envie um pull request ou crie uma issue para discutir possíveis mudanças.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
